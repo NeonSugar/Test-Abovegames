@@ -1,0 +1,1 @@
+﻿public enum TabFilter { All, Odd, Even }
